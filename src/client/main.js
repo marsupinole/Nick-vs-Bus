@@ -1,4 +1,3 @@
-# FIXME run the game when the dom loads
 var getWindowSize;
 
 window.addEventListener('load', function() {
